@@ -1,6 +1,6 @@
 {
-    "name": "databaseproject",
-    "short_name": "databaseproject",
+    "name": "rodesignlib",
+    "short_name": "rodesignlib",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
